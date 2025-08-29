@@ -1,0 +1,74 @@
+﻿Direct/Indirect,Type,First Author,et al,Year,Datasets,Value,Lower,Upper,ArXiv,lowerredshift,upperredshift,multipledatasets
+Indirect,CMB with Planck,0,0,0,0,0,0,0,0,0,0,N
+Indirect,CMB with Planck,Pogosian,Y,2020,eBOSS+Planck,69.6,1.8,1.8,2009.08455,0.15,1090.22,N
+Indirect,CMB with Planck,Aghanim,Y,2020,Planck18,67.27,0.6,0.6,1807.06209,1089.68,1090.22,N
+Indirect,CMB with Planck,Aghanim,Y,2020,Planck18+CMB lensing,67.36,0.54,0.54,1807.06209,1089.67,1090.17,N
+Indirect,CMB with Planck,Ade,Y,2016,Planck15,67.27,0.66,0.66,1502.01589,1089.76,1090.36,N
+Indirect,CMB without Planck,0,0,0,0,0,0,0,0,0,0,N
+Indirect,CMB without Planck,Aiola,Y,2020,ACT,67.9,1.5,1.5,2007.07288,1089.68,1090.22,N
+Indirect,CMB without Planck,Aiola,Y,2020,ACT+WMAP9,67.6,1.1,1.1,2007.07288,1089.68,1090.22,Y
+Indirect,CMB without Planck,Zhang,Y,2019,WMAP+BAO,68.36,0.52,0.53,1812.01877,1089.68,1090.22,Y
+Indirect,CMB without Planck,Henning,Y,2018,SPT,71.3,2.1,2.1,1707.09353,1089.68,1090.22,N
+Indirect,CMB without Planck,Hinshaw,Y,2013,WMAP9,70,2.2,2.2,1212.5226,1090.11,1091.82,N
+Indirect,CMB without Planck,Louis,Y,2025,ACT,66.11,0.79,0.79,2503.14452v2,1089.66,1090.26,N
+Indirect,No CMB; with BBN,0,0,0,0,0,0,0,0,0,0,N
+Indirect,No CMB; with BBN,D'Amico,Y,2020,BOSS DR12+BBN,68.5,2.2,2.2,1909.05271,0.4,0.7,BBN
+Indirect,No CMB; with BBN,Ivanov,Y,2020,BOSS+BBN,67.9,1.1,1.1,1909.05277,0.38,0.61,BBN
+Indirect,No CMB; with BBN,Alam,Y,2020,BOSS+eBOSS+BBN,67.33,0.98,0.98,2007.08991,0.07,3.5,BBN
+Indirect,No CMB; with BBN,Karim,Y,2025,DESI DR2+BBN,68.51,0.58,0.58,2503.14738v2,0.1,3.5,BBN
+Indirect,Pl(k) + CMB lensing,0,0,0,0,0,0,0,0,0,0,N
+Indirect,Pl(k) + CMB lensing,Philcox,Y,2020,Pl(k)+CMB lensing,70.6,5,3.7,2008.08084,0.38,1089.90,Y
+Direct,Cepheids-SNIa,0,0,0,0,0,0,0,0,0,0,N
+Direct,Cepheids-SNIa,Riess,Y,2020,R20,73.2,1.3,1.3,2012.08534,0,0.01,N
+Direct,Cepheids-SNIa,Riess,Y,2022,HST,73.04,1.04,1.04,2112.04510,0,0.01,N
+Direct,Cepheids-SNIa,Breuval,Y,2020,SNIa,72.8,2.7,2.7,2006.08763,0,0.01,N
+Direct,Cepheids-SNIa,Riess,Y,2019,R19,74,1.4,1.4,1903.07603,0,0.01,N
+Direct,Cepheids-SNIa,Camarena,Y,2019,SNIa,75.4,1.7,1.7,1906.11814,0.023,0.15,N
+Direct,Cepheids-SNIa,Burns,Y,2018,SNIa,73.2,2.3,2.3,1809.06381,0.004,0.083,N
+Direct,Cepheids-SNIa,Dhawan,Y,2017,NIR,72.8,3.1,3.1,1707.00715,0.01,0.08,N
+Direct,Cepheids-SNIa,Follin,Y,2017,SNIa,73.3,1.7,1.7,1707.01175,0,0.15,N
+Direct,Cepheids-SNIa,Feeney,Y,2017,SNIa,73.2,1.8,1.8,1707.00007,0.0233,0.15,N
+Direct,Cepheids-SNIa,Riess,Y,2016,R16,73.2,1.7,1.7,1604.01424,0.023,0.15,N
+Direct,Cepheids-SNIa,Cardona,Y,2016,HPs,73.8,2.1,2.1,1611.06088,0.023,0.15,N
+Direct,Cepheids-SNIa,Freedman,Y,2012,SNIa,74.3,2.1,2.1,2012ApJ,0.9,1.46,N
+Direct,TRGB-SNIa,0,0,0,0,0,0,0,0,0,0,N
+Direct,TRGB-SNIa,Soltis,Y,2020,SNIa,72.1,2,2,2012.09196,0.023,0.15,N
+Direct,TRGB-SNIa,Freedman,Y,2020,SNIa,69.6,1.9,1.9,2002.01550,0.0037,0.0835,N
+Direct,TRGB-SNIa,Reid,Y,2019,SH0ES,71.1,1.9,1.9,1908.05625,0.023,0.15,N
+Direct,TRGB-SNIa,Freedman,Y,2019,SNIa,69.8,1.9,1.9,1907.05922,0.004,0.083,N
+Direct,TRGB-SNIa,Yuan,Y,2019,SNIa,72.4,2,2,1908.00993,0.004,0.083,N
+Direct,TRGB-SNIa,Jang,Y,2017,SNIa,71.2,2.5,2.5,1702.01118,0.023,0.15,Y
+Direct,TRGB-SNIa,Freedman,Y,2024,JWST,70.39,3.25,3.25,2408.06153v3,0.01,0.0411,N
+Direct,Miras-SNIa,0,0,0,0,0,0,0,0,0,0,N
+Direct,Miras-SNIa,Huang,Y,2019,SNIa,73.3,4,4,1908.10883,0.023,0.15,Y
+Direct,Masers,0,0,0,0,0,0,0,0,0,0,N
+Direct,Masers,Pesce,Y,2020,Masers,73.9,3,3,2001.09213,0.002,0.034,N
+Direct,Tully-Fisher Relation,0,0,0,0,0,0,0,0,0,0,N
+Direct,Tully-Fisher Relation,Kourkchi,Y,2020,TFR,76,2.6,2.6,2004.14499,0,0.04,N
+Direct,Tully-Fisher Relation,Schombert,Y,2020,TFR,75.1,2.8,2.8,2006.08615,0,0.1,Y
+Direct,Surface Brightness Fluctuations,0,0,0,0,0,0,0,0,0,0,N
+Direct,Surface Brightness Fluctuations,Blakeslee,Y,2021,SBF,73.3,2.5,2.5,2101.02221,0,0.02,N
+Direct,Surface Brightness Fluctuations,Khetan,Y,2020,SBF,71.1,4.1,4.1,2008.07754,0,0.075,Y
+Direct,SNII,0,0,0,0,0,0,0,0,0,0,N
+Direct,SNII,de Jaeger,Y,2020,SNII,75.8,4.9,5.2,2006.03412,0,0.4,Y
+Direct,HII galaxies,0,0,0,0,0,0,0,0,0,0,N
+Direct,HII galaxies,Fernandez Arenas,Y,2018,HII,71,3.5,3.5,1710.05951,0.0002,0.2,N
+Direct,Strong Lensing; mass model-dependent,0,0,0,0,0,0,0,0,0,0,N
+Direct,Strong Lensing; mass model-dependent,Denzel,Y,2021,Lensing,71.8,3.3,3.9,2007.14398,0.295,2.763,N
+Direct,Strong Lensing; mass model-dependent,Birrer,Y,2020,TDCOSMO+SLACS,67.4,3.2,4.1,2007.02941,0,2.375,Y
+Direct,Strong Lensing; mass model-dependent,Birrer,Y,2020,TDCOSMO,74.5,6.1,5.6,2007.02941,0.295,2.375,N
+Direct,Strong Lensing; mass model-dependent,Millon,Y,2020,TDCOSMO,74.2,1.6,1.6,1912.08027,0.295,2.375,N
+Direct,Strong Lensing; mass model-dependent,Qi,Y,2020,Lensing,73.6,1.6,1.8,2011.00713,0.295,2.375,N
+Direct,Strong Lensing; mass model-dependent,Liao,Y,2020,Lensing,72.8,1.7,1.6,2002.10605,0.03,2.26,Y
+Direct,Strong Lensing; mass model-dependent,Liao,Y,2019,Lensing,72.2,2.1,2.1,1908.04967,0.03,2.26,Y
+Direct,Strong Lensing; mass model-dependent,Shajib,Y,2019,STRIDES,74.2,3,2.7,1910.06306,0.594,2.228,N
+Direct,Strong Lensing; mass model-dependent,Wong,Y,2019,H0LiCOW,73.3,1.8,1.7,1907.04869,0.295,1.789,N
+Direct,Strong Lensing; mass model-dependent,Birrer,Y,2018,H0LiCOW,72.5,2.3,2.1,1809.01274,0.4546,1.789,N
+Direct,Strong Lensing; mass model-dependent,Bonvin,Y,2016,H0LiCOW,71.9,3,2.4,1607.0179,0.4546,1.693,N
+Direct,Lensing related; mass model-dependent,0,0,0,0,0,0,0,0,0,0,N
+Direct,Lensing related; mass model-dependent,Baxter,Y,2020,Lensing,73.5,5.3,5.3,2007.04007,0.03,1089.68,Y
+Direct,GW related,0,0,0,0,0,0,0,0,0,0,N
+Direct,GW related,Gayathri,Y,2020,GW170817,73.4,10.7,6.9,2009.14247,0.438,0.438,N
+Direct,GW related,Mukherjee,Y,2020,GW170817,67.6,4.2,4.3,2009.14199,0.01085,0.438,N
+Direct,GW related,Mukherjee,Y,2019,GW170817,68.3,4.5,4.6,1909.08627,0.01085,0.01133,N
+Direct,GW related,Abbott,Y,2017,GW170817,70,8,12,1710.05835,0.00950,0.01061,N
